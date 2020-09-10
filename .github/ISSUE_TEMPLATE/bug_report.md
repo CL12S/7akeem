@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug @Faeatheorbot 
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: '@VVVVIP'
+labels: '@Faeatheorbot '
 assignees: ''
 
 ---
